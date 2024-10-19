@@ -11,10 +11,10 @@ In today's fast-paced world, maintaining a balanced diet poses significant chall
 
 ### Tech Stack
 
-NLP via Python's Library spacy
-[OpenFoodFacts API](https://openfoodfacts.github.io/openfoodfacts-server/api/) for barcode lookup
-SQLite3 for storing data in databases
-Various Python libraries such as requests, os, hashlib, numpy, etc.
+NLP via Python's Library spacy<br>
+[OpenFoodFacts API](https://openfoodfacts.github.io/openfoodfacts-server/api/) for barcode lookup<br>
+SQLite3 for storing data in databases<br>
+Various Python libraries such as requests, os, hashlib, numpy, etc.<br>
 
 ### Video Demo
 [Click here](https://drive.google.com/file/d/1FBI8BBnNWmsjfmhUJ4OrzH7bDmcl1YMo/view?usp=sharing)
